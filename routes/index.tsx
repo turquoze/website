@@ -15,7 +15,7 @@ export default function Home() {
         <div class="pt-24 pb-12">
           <p class="my-6 dark:text-white">
             Welcome to Turquoze, a headless e-commerce project. (Currently in
-            private development)
+            development)
           </p>
           <a
             class="dark:text-white hover:text-blue-600"
